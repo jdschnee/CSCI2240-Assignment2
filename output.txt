@@ -1,0 +1,116 @@
+                        *****PLEASE SELECT AN OPTION*****
+1: Ascertain the average for integer and double values
+2: Ascertain whether a number is prime
+3: Ascertain whether a certain coordinate point is inside of a circle
+1
+
+Enter a double value, then an integer value and separate them with a coma ',' in between with no spaces.
+3.14,5
+All Valid Inputs
+
+Enter a double value, then an integer value and separate them with a coma ',' in between with no spaces.
+5.14,7
+All Valid Inputs
+
+Enter a double value, then an integer value and separate them with a coma ',' in between with no spaces.
+7.14,a
+One Valid Input
+
+The average of all 3 doubles is 5.1400
+The average of all 2 integers is 6.0000
+
+
+                        *****PLEASE SELECT AN OPTION*****
+1: Ascertain the average for integer and double values
+2: Ascertain whether a number is prime
+3: Ascertain whether a certain coordinate point is inside of a circle
+2
+
+Enter a positive integer value and find out whether it is a prime number or not.
+999983
+
+999983 is a prime.
+Its only factors are 1 and itself.
+
+If you want to exit the prime number program enter the letter x into the keyboard and press enter with no leading spaces, otherwise, enter any other key to proceed.
+
+
+Enter a positive integer value and find out whether it is a prime number or not.
+999981
+
+The number you have entered is a composite number rather than a prime.
+3 is a prime factor of 999981
+
+If you want to exit the prime number program enter the letter x into the keyboard and press enter with no leading spaces, otherwise, enter any other key to proceed.
+
+x
+                        *****PLEASE SELECT AN OPTION*****
+1: Ascertain the average for integer and double values
+2: Ascertain whether a number is prime
+3: Ascertain whether a certain coordinate point is inside of a circle
+3
+
+
+Enter an x and y coordinate pair for the center of your circle.
+When you input the coordinate, enter it in this format "(x,y)" where you include the parentheses and coma with no spaces in between.
+(4,5)
+
+
+Enter the radius for your circle. Input a numeric value with no spaces please.
+5
+
+
+Enter a coordinate point and we will determine whether that point is outside, within, or on the perimeter of your circle.
+When you you input the coordinate put it this format "(x,y)" where you include the parentheses and coma with no spaces in between.
+(0,1)
+
+
+The coordinate point you entered is outside of the circle!
+
+If you want to exit the cirlce program enter the letter x into the keyboard and press enter with no leading spaces, otherwise, enter any other key to proceed.
+
+
+
+Enter an x and y coordinate pair for the center of your circle.
+When you input the coordinate, enter it in this format "(x,y)" where you include the parentheses and coma with no spaces in between.
+(4,5)
+
+
+Enter the radius for your circle. Input a numeric value with no spaces please.
+6
+
+
+Enter a coordinate point and we will determine whether that point is outside, within, or on the perimeter of your circle.
+When you you input the coordinate put it this format "(x,y)" where you include the parentheses and coma with no spaces in between.
+(1,2)
+
+
+The coordinate point you entered is inside of the circle!
+
+If you want to exit the cirlce program enter the letter x into the keyboard and press enter with no leading spaces, otherwise, enter any other key to proceed.
+
+
+
+Enter an x and y coordinate pair for the center of your circle.
+When you input the coordinate, enter it in this format "(x,y)" where you include the parentheses and coma with no spaces in between.
+(2,3)
+
+
+Enter the radius for your circle. Input a numeric value with no spaces please.
+5
+
+
+Enter a coordinate point and we will determine whether that point is outside, within, or on the perimeter of your circle.
+When you you input the coordinate put it this format "(x,y)" where you include the parentheses and coma with no spaces in between.
+(6,6)
+
+
+The coordinate point you entered is on the perimeter of the circle!
+
+If you want to exit the cirlce program enter the letter x into the keyboard and press enter with no leading spaces, otherwise, enter any other key to proceed.
+
+x
+                        *****PLEASE SELECT AN OPTION*****
+1: Ascertain the average for integer and double values
+2: Ascertain whether a number is prime
+3: Ascertain whether a certain coordinate point is inside of a circle
